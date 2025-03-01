@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **sani.khatun18022006@gmail.com**
+- 📫 How to reach me **sania.khatun18022006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
