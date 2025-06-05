@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taniakhatun18&label=Profile%20views&color=0e75b6&style=flat" alt="taniakhatun18" /> </p>
 
-- 🔭 I’m currently working on [Quiz Application](https://github.com/TaniaKhatun18/Quiz_Application.git)
+- 🔭 I’m currently working on [Mental Health Risk Prediction ML Model](https://github.com/TaniaKhatun18/Mental-Health-Risk-Prediction-ML-Model)
 
-- 🌱 I’m currently learning **AI, ML**
+- 🌱 I’m currently learning **AI, ML, DL, NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TaniaKhatun18/](https://github.com/TaniaKhatun18/)
 
