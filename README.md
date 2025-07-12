@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taniakhatun18&label=Profile%20views&color=0e75b6&style=flat" alt="taniakhatun18" /> </p>
 
-- 🔭 I’m currently working on [Mental Health Risk Prediction ML Model](https://github.com/TaniaKhatun18/Mental-Health-Risk-Prediction-ML-Model)
+- 🔭 I’m currently working on [https://github.com/TaniaKhatun18/Emergency_Vehicle_Detection_CNN_model]
 
 - 🌱 I’m currently learning **AI, ML, DL, NLP**
 
